@@ -30,7 +30,7 @@ Install [Docker](https://docs.docker.com/engine/installation/linux/docker-ce/ubu
 Execute in your terminal, change the *MYMAGENTO* to use the name of your project:
 
 ```
-curl -s https://raw.githubusercontent.com/clean-docker/PHP-Apache/master/init | bash -s MYMAGENTO clone
+curl -s https://raw.githubusercontent.com/charlesalmeida/PHP-Apache/master/init | bash -s MYMAGENTO clone
 ```
 
 If you want install the Magento, use like that:
